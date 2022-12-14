@@ -1,0 +1,24 @@
+p {
+    font-family: fantasy;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    color: darkgoldenrod;
+}
+.header {
+    font-size: x-large;
+    font-style: oblique;
+}
+.title {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: firebrick;
+}
+#color {
+    color: darkcyan;
+}
+#style {
+    font-style:oblique;
+}
